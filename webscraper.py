@@ -1,4 +1,8 @@
-'Author: Robert Havelaar,  with help from an article https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460'
+'''
+Author: Robert Havelaar, 
+ with help from an article 
+ https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+'''
 
 
 import requests
